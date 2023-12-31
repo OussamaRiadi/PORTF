@@ -173,7 +173,7 @@ section{
   padding-top: 40px;
 }
 section .content{
-  width: 80%;
+  width: 60%;
   margin: 40px auto;
   font-family: 'Poppins', sans-serif;
 }
@@ -217,10 +217,10 @@ section .title span::after{
   height: 490px;
   width: 400px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 15px;
 }
 .about-details .right{
-  width: 55%;
+  width: 45%;
 }
 section  .topic{
   color: #0E2431;
